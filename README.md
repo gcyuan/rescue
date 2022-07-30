@@ -207,17 +207,7 @@ visualization techniques in this simulated example.
 
 ## References
 
-Dries, R., et al. (2019). Giotto, a pipeline for integrative analysis
-and visualization of single-cell spatial transcriptomic data. *BioRxiv*.
-doi: <https://doi.org/10.1101/701680>.
-
-Satija R., et al. (2019). Seurat: Tools for Single Cell Genomics. R
-package version 3.1.0. <https://CRAN.R-project.org/package=Seurat>.
-
 Tracy, S., Dries, R., Yuan, G. C. (2019). RESCUE: imputing dropout
 events in single-cell RNA-sequencing data. *BMC Bioinformatics*,
 **20**(388). doi: <https://doi.org/10.1186/s12859-019-2977-0>.
 
-Zappia, L., Phipson, B., Oshlack, A. (2017). Splatter: simulation of
-single-cell RNA sequencing data. *Genome Biology*, **18**(1):174. doi:
-<https://doi.org/10.1186/s13059-017-1305-0>.
